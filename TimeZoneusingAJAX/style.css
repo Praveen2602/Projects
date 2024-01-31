@@ -1,0 +1,23 @@
+
+*{
+    background-color: bisque;
+    margin: 0%;
+    padding: 0%;
+}
+
+div{
+    color: brown;
+    text-align: center;
+    height: 100%;
+}
+span{
+    color: purple;
+    font-weight: bold;
+}
+select{
+    background-color: coral;
+}
+input{
+    background-color:coral;
+
+}
